@@ -5,3 +5,7 @@
 [submodule "DCEM"]
 	path = DCEM
 	url = https://github.com/parichit/dcem
+[submodule "geokmeans"]
+	path = geokmeans
+	url = https://github.com/parichit/geometric-k-means
+	subdir = geokmeans
